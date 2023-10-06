@@ -2,23 +2,29 @@
 
 To solve this task, you must create a fork of this repository on your GitHub account and work from there. When done, submit a pull request to the main branch so we can review your work. Feel free to create a draft pull request the moment you start solving the task, if you want.
 
+You can use whichever IDE or text editor you feel confident with. Some recommendations are Visual Studio Code or PyCharm.
+
 ## Module 1 - Implementing and training a neural network
+
+This question should be explored using the provided Jupyter Notebook (`mod1/notebook.ipynb`).
 
 ### Requirements
 
 - Python
     - PyTorch
+    - TorchVision
 
 ### Tasks
 
 In this module, the goal is to develop and train a neural network to identify hand-written digits (MNIST dataset) using PyTorch.
 
-1. The provided architecture is a MLP with 3 fully-connected layers:
-    - 784 neurons
-    - 800 neurons
-    - 10 neurons
-    1. Why does the input layer have 784 neurons?
-    2. Why does the output layer have 10 neurons?
+1. The provided architecture is a MLP with 2 fully-connected layers:
+    - 784 input features and 800 output features
+    - 800 input features and 10 output features
+    
+    Explore the architecture on the script `mod1/bobnet.py`.
+    1. Why does the input layer have 784 input features?
+    2. Why does the output layer have 10 output features?
 
 2. The initial architecture is a good old Multi-Layer Perceptron (MLP). 
     1. Modify the architecture to be a Convolutional Neural Network (CNN) with the following layers:
