@@ -1,0 +1,6 @@
+.idea/
+venv/
+**/__pycache__
+**/.ipynb_checkpoints
+mod1/data
+mod1/runs
