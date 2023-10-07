@@ -1,10 +1,14 @@
 # Recruitment Task 2023
 
-To solve this task, you must create a fork of this repository on your GitHub account and work from there. When done, submit a pull request to the main branch so we can review your work. Feel free to create a draft pull request the moment you start solving the task, if you want.
-
-You can use whichever IDE or text editor you feel confident with. Some recommendations are Visual Studio Code or PyCharm.
-
 ## Module 1 - Implementing and training a neural network
+
+### Procedure
+
+To solve this task, do the following:
+- Fork this repository on you personal GitHub account;
+- Open a draft pull request to this repository's "main" branch;
+- When you're done, mark the pull request as ready for review and notify the department leader;
+- Your work will be reviewed directly on the pull request.
 
 ### Requirements
 
