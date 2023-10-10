@@ -16,5 +16,6 @@ To solve this task, do the following:
 - Python
     - PyTorch
     - TorchVision
+    - TensorBoard
 
-Use the Jupyter Notebook to explore and solve this task.
+Use the Jupyter Notebook to explore and solve this task. You can use Jupyter Notebooks using Jupyter, PyCharm or a VS Code plugin.
